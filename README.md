@@ -93,6 +93,7 @@ Use external providers to deliver training, run audits, perform user testing and
 
 ### Checkers
 
+- [SiteScan AccessUX](https://accessux.com.au/sitescan/sitescan-extension/)) - Chrome extension for evaluating accessibility issues. Powerful features mostly found in paid products llike part-page scans.
 - [Wave WebAIM](http://wave.webaim.org/extension/) - Chrome and Firefox extension for evaluating web content for accessibility issues. Also includes a colour contrast tool, desauturation tool and testing without styles.
 - [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc) - Comprehensive tool for evaluating accessibility issues
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) - Chrome Extension for ccessibility audits and element properties
@@ -150,6 +151,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 ### Test automation
 
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [SiteScan AccessUX](https://accessux.com.au/sitescan/) - End to end website accessibility management for business, government, enterprise and agencies
 - [AATT](https://github.com/paypal/AATT) - PayPal's automated accessibility testing tool
 - [Pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [A11y](https://addyosmani.com/a11y/) - Web accessibility audits powered by the Chrome Accessibility Developer Tools
